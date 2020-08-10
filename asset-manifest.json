@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-shepherd/static/css/main.a2b7b0b6.chunk.css",
+    "main.js": "/react-shepherd/static/js/main.8c595695.chunk.js",
+    "main.js.map": "/react-shepherd/static/js/main.8c595695.chunk.js.map",
+    "runtime-main.js": "/react-shepherd/static/js/runtime-main.960bac83.js",
+    "runtime-main.js.map": "/react-shepherd/static/js/runtime-main.960bac83.js.map",
+    "static/css/2.8d92df0b.chunk.css": "/react-shepherd/static/css/2.8d92df0b.chunk.css",
+    "static/js/2.f3b553a1.chunk.js": "/react-shepherd/static/js/2.f3b553a1.chunk.js",
+    "static/js/2.f3b553a1.chunk.js.map": "/react-shepherd/static/js/2.f3b553a1.chunk.js.map",
+    "index.html": "/react-shepherd/index.html",
+    "precache-manifest.655c632d14fa664b7510ebaf02e56b89.js": "/react-shepherd/precache-manifest.655c632d14fa664b7510ebaf02e56b89.js",
+    "service-worker.js": "/react-shepherd/service-worker.js",
+    "static/css/2.8d92df0b.chunk.css.map": "/react-shepherd/static/css/2.8d92df0b.chunk.css.map",
+    "static/css/main.a2b7b0b6.chunk.css.map": "/react-shepherd/static/css/main.a2b7b0b6.chunk.css.map",
+    "static/js/2.f3b553a1.chunk.js.LICENSE.txt": "/react-shepherd/static/js/2.f3b553a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.960bac83.js",
+    "static/css/2.8d92df0b.chunk.css",
+    "static/js/2.f3b553a1.chunk.js",
+    "static/css/main.a2b7b0b6.chunk.css",
+    "static/js/main.8c595695.chunk.js"
+  ]
+}
